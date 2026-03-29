@@ -1,6 +1,6 @@
 # test_git_codexcli_dotenv
 学習用プロジェクト：git、codex cli、dotenv（APIキー等の環境変数を隠蔽用）
-
+  
 中身は単に.envに入力した環境変数を表示するだけのスクリプトです。  
 <img width="206" height="152" alt="image" src="https://github.com/user-attachments/assets/b9bf0177-aece-47ae-bdb0-38a9ad659322" />
   
